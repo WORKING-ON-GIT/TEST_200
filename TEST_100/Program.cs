@@ -16,6 +16,8 @@ namespace TEST_100
 		{
 			// تغییر شماره یک
 
+			// تغییر شماره دو
+
 			Application.EnableVisualStyles();
 			Application.SetCompatibleTextRenderingDefault(false);
 			Application.Run(new Form1());
