@@ -14,6 +14,8 @@ namespace TEST_100
 		[STAThread]
 		static void Main()
 		{
+			// تغییر شماره یک
+
 			Application.EnableVisualStyles();
 			Application.SetCompatibleTextRenderingDefault(false);
 			Application.Run(new Form1());
